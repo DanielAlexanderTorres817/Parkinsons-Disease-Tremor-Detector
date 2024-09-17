@@ -59,3 +59,9 @@ This project implements a tremor detection system using a digital signal process
 
 - **Thresholds and Frequency Range**: You can adjust the tremor detection thresholds and frequency range by modifying the `TREMOR_FREQ_LOW`, `TREMOR_FREQ_HIGH`, `THRESHOLD_LOW`, and `THRESHOLD_HIGH` values in the code.
 - **Filter Coefficient**: Modify the `FILTER_COEFFICIENT` to control the strength of the low-pass filter applied to the gyroscope data.
+
+## Video Demonstration
+
+
+https://github.com/user-attachments/assets/29c03684-1e09-4695-9fd7-00588c201299
+
